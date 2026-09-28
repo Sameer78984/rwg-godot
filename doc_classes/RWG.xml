@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<class name="RWG" inherits="Node" api_type="extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/godotengine/godot/master/doc/class.xsd">
+	<brief_description>
+	</brief_description>
+	<description>
+	</description>
+	<tutorials>
+	</tutorials>
+	<methods>
+		<method name="print_logs">
+			<return type="void" />
+			<description>
+			
+			</description>
+		</method>
+	</methods>
+	<members>
+		<member name="my_data" type="String" setter="set_my_data" getter="get_my_data" default="&quot;Testing property&quot;">
+		</member>
+	</members>
+</class>

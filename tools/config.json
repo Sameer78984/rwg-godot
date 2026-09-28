@@ -1,12 +1,17 @@
 {
-  "pluginName": "plugin_name",
+  "pluginName": "rwggodot",
   "godotVersion": "4.7",
-  "godotActivePath": "",
-  "savedGodotPaths": [],
-  "godotProjectFolder": "",
+  "godotActivePath": "D:\\Softwares\\Godot\\Godot_v4.7.2-stable_win64.exe",
+  "savedGodotPaths": [
+    {
+      "path": "D:\\Softwares\\Godot\\Godot_v4.7.2-stable_win64.exe",
+      "version": "4.7.2.stable.official.ed1daf0bf"
+    }
+  ],
+  "godotProjectFolder": "D:\\Dev\\Production\\rwg-godot\\test_project",
   "ltoMode": "none",
-  "selectedBuildProfile": "2d_build_profile.json",
-  "extensionApiPath": "godot-cpp/gdextension/extension_api.json",
+  "selectedBuildProfile": "none",
+  "extensionApiPath": "godot-cpp/gdextension/extension_api-4-7.json",
   "reloadable": true,
   "editorTargetMode": "debug",
   "debugSymbols": "no"
